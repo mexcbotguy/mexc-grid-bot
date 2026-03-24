@@ -1,0 +1,16 @@
+{
+  "name": "mexc-grid-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "DRY_RUN=true node index.js"
+  },
+  "keywords": ["grid-bot", "trading", "mexc"],
+  "license": "ISC",
+  "description": "Grid trading bot for MEXC exchange",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "mexc-sdk": "github:mrmikeo/mexc-api-sdk"
+  }
+}
