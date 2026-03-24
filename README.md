@@ -38,7 +38,7 @@ Grid trading captures profit from sideways price movement by placing a series of
 ## Installation
 
 ```bash
-git clone https://github.com/your-user/mexc-grid-bot.git
+git clone https://github.com/mexcbotguy/mexc-grid-bot.git
 cd mexc-grid-bot
 npm install
 ```
